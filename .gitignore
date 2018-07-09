@@ -1,4 +1,6 @@
 01_npm_babel_webpack/node_modules
 02_managing_and_updating_state/node_modules
+03_stateless_functional_components/node_modules
 01_npm_babel_webpack/dist
 02_managing_and_updating_state/dist
+03_stateless_functional_components/dist
