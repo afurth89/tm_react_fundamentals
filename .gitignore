@@ -4,6 +4,7 @@
 04_react_lifecycle_events_and_ajax_requests/node_modules
 05_intro_to_react_router/node_modules
 06_forms_and_encapsulation/node_modules
+07_dynamic_rendering_and_query_params/node_modules
 
 01_npm_babel_webpack/dist
 02_managing_and_updating_state/dist
@@ -11,3 +12,4 @@
 04_react_lifecycle_events_and_ajax_requests/dist
 05_intro_to_react_router/dist
 06_forms_and_encapsulation/dist
+07_dynamic_rendering_and_query_params/dist
