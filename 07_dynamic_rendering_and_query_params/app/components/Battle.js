@@ -166,8 +166,15 @@ class Battle extends React.Component {
               id='playerOne'
             />
           }
-
         </div>
+
+          {playerOneImage && playerTwoImage &&
+            <Link
+              className='button'
+              to={'/'}>
+                Battle
+            </Link>}
+
       </div>
     )
   }
