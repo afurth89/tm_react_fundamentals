@@ -8,6 +8,7 @@
 08_ajax_promises_apis/node_modules
 09_composition_props.children/node_modules
 10_reusuable_components/node_modules
+11_hosting_production/node_modules
 
 01_npm_babel_webpack/dist
 02_managing_and_updating_state/dist
@@ -19,3 +20,4 @@
 08_ajax_promises_apis/dist
 09_composition_props.children/dist
 10_reusuable_components/dist
+11_hosting_production/dist
