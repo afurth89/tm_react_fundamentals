@@ -93,8 +93,6 @@ class Popular extends React.Component {
   }
 
   render() {
-    console.log("Selected Lang: ", this.state.selectedLanguage)
-    console.log("Repos: ", this.state.repos)
     return (
       <div>
         <SelectLanguage 
